@@ -33,10 +33,7 @@ const Navbar = () => {
           Log In / Registration
         </a>
         <div />
-        <a
-          href="https://www.canva.com/design/DAF1ix4cW0Q/ZkibV7fqf1SRhkIkchIA_A/edit?fbclid=IwAR2P5qu-YjvtDpF21FUwu1IGDq6RQ93Qme1WnSoDybG3WQDGvHGzxzpz5GM"
-          className="p__opensans"
-        >
+        <a href="/" className="p__opensans">
           Book Table
         </a>
       </div>
